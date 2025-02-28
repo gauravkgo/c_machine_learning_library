@@ -1,0 +1,16 @@
+Intvec is NULL
+0
+0
+0
+0
+Intvec is not NULL
+0
+0
+0
+2
+Type: intvec
+Length: 3
+Content:
+3
+3
+2

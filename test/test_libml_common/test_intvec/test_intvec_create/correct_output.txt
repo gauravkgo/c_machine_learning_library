@@ -1,0 +1,3 @@
+Intvec is NULL
+Intvec is NULL
+Intvec is not NULL

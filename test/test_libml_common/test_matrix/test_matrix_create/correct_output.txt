@@ -1,0 +1,3 @@
+Matrix is NULL
+Matrix is NULL
+Matrix is not NULL

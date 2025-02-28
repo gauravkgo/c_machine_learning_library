@@ -1,0 +1,30 @@
+
+Testing started on 2025-02-27 15:50:49.
+––––––––––––––––––––––––––––––––
+test/test_knn/test_knn_correct1/test.sh:
+Testing...
+Passed!
+––––––––––––––––––––––––––––––––
+test/test_libml_common/test_intvec/test_intvec_create/test.sh:
+Testing...
+Passed!
+––––––––––––––––––––––––––––––––
+test/test_libml_common/test_intvec/test_intvec_get_set_print/test.sh:
+Testing...
+Passed!
+––––––––––––––––––––––––––––––––
+test/test_libml_common/test_matrix/test_matrix_create/test.sh:
+Testing...
+Passed!
+––––––––––––––––––––––––––––––––
+test/test_libml_common/test_matrix/test_matrix_get_set_print/test.sh:
+Testing...
+Passed!
+––––––––––––––––––––––––––––––––
+test/test_libml_common/test_numcsv/test_numcsv_correct/test.sh:
+Testing...
+Passed!
+––––––––––––––––––––––––––––––––
+Summary:
+--  Total: 6  --  Passed: 6  --  Failed: 0  --
+
